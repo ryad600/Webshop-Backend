@@ -3,6 +3,8 @@
 	ini_set('display_startup_errors', '1');
 	error_reporting(E_ALL);
 
+	//Morhaf ist meistens nice!
+
 	//Set the content type for all endpoints to application/json.
 	header("Content-Type: application/json");
 
